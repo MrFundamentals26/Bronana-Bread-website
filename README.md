@@ -15,3 +15,5 @@ This repository is made to store files and code for a fictional business named B
 -Added an input text field into the enquiry page
 
 -Added 3 input text fields in the specialOrder page
+
+-All HTML files have been updated with comments to explain the code
