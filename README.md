@@ -62,6 +62,10 @@ Homepage -> Products, About, Enquiry, Contact, Special Orders
 
 -Added 3 input text fields in the specialOrder page
 
+-Added "buy now" button to index page
+
+-Added footer to index page
+
 -All HTML files have been updated with comments to explain the code
 
 # References
