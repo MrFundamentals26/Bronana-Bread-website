@@ -1,6 +1,51 @@
 # Bronana-Bread-website
 This repository is made to store files and code for a fictional business named Bronana Bread which will be my assignment for WEDE5020
 
+# Student information
+ST10480197
+Nhlamulo Gana
+
+# Project Overview
+A website is built using HTML for a business. The website consists of 6 pages with unique content, there's the home page, special orders, about section, contacts page, enquiry page and a products page.
+
+# Goals and objectives 
+
+The goals for the business are to sell more products by getting new customers and to keep their customers informed to new changes to the menu. The objectives the website will be aiming for will be generating leads, providing useful information and making the business more reputable as a website can make any business feel more tangible. 
+
+# Website features and functionality 
+
+The website will have 6 pages: 
+
+Homepage – This will be the main page of the website which all visitors will see first. It will have the hero section which will showcase the main purpose of the business and a call to action. It will also serve as the center of navigating the website. 
+
+About us page – This page will have information about the history and process of the business such as how the business started and how they bake their products and even information about the founder so that visitors can be invested in the business. 
+
+Products page – This page will showcase all the available products the business sells so that the customers can make their choice as to which they want to buy. 
+
+Enquiry – This is a page where customers will ask for information either about the business itself or the products it offers such as how many calories does a coffee pancake contain or if the ingredients used are vegan. 
+
+Contact page – This page will house all available contact information where it's for ordering products or customer service. 
+
+Special Order page – This page is where customers will be able to request personalized orders, they can swap out certain ingredients, add or subtract something or request for something entirely new within reason.
+
+# Timeline and Milestones 
+
+13 August 2026 – Wireframes created. 
+
+14 August 2026 – Basic HTML structure is created. 
+
+18 September 2026 – CSS is applied to website. 
+
+Unknown date November 2026 – JavaScript is applied. 
+
+Unknown date November 2026 – Website is launched.
+
+# Part 1 Details
+2 proposals were created for different businesses to propose websites for them. A website will be created for one of the businesses. Part 1 focuses on the foundation of the website's structure. HTML structure is created and information about the website is put into the website. Then the whole project is uploaded into GitHub.
+
+# Sitemap
+Homepage -> Products, About, Enquiry, Contact, Special Orders
+
 # Changelog
 -Added the first 6 pages of the website along with the hero image
 
@@ -17,3 +62,28 @@ This repository is made to store files and code for a fictional business named B
 -Added 3 input text fields in the specialOrder page
 
 -All HTML files have been updated with comments to explain the code
+
+# References
+​​CFI, 2020. Mission Statement. [Online]  
+Available at: https://corporatefinanceinstitute.com/resources/management/mission-statement/ 
+[Accessed 11 August 2026]. 
+
+​Elementor Blog, 2026. How Much Does a Small Business Website Cost? (A 2026 Breakdown). [Online]  
+Available at: https://elementor.com/blog/how-much-does-a-small-business-website-cost/ 
+[Accessed 11 August 2026]. 
+
+​Hostinger, 2026. Why buy domain names at Hostinger?. [Online]  
+Available at: https://www.hostinger.com/domain-name-search?utm_id=677940938&msclkid=fe9abc95ca221b1279bfd6eee6e6e76d&utm_source=bing&utm_medium=cpc&utm_campaign=Generic-Domains|NT:Bing|LO:Other-Africa&utm_term=domain&utm_content=Domains+-+PD:DN 
+[Accessed 11 August 2026]. 
+
+​Nordic Recipe Box, 2025. Banana Nut Bread Recipe. [Online]  
+Available at: https://www.bing.com/images/search?view=detailV2&ccid=ghqb4WWo&id=4FEE39924B8D77228FB9C0A6B6165D8A9DBA15CF&thid=OIP.ghqb4WWoidSyb18OWqt6kwHaLH&mediaurl=https%3a%2f%2fwww.spendwithpennies.com%2fwp-content%2fuploads%2f2021%2f05%2f1200-Moist-Banana-Bread-Spe 
+[Accessed 11 August 2026]. 
+
+​Warmly, 2025. 15 Lead Generation Metrics & KPIs You Should Track in 2026. [Online]  
+Available at: https://www.warmly.ai/p/blog/lead-generation-metrics#6-customer-acquisition-cost-cac 
+[Accessed 11 August 2026]. 
+
+​Wix, 2026. Why you're in good hands with Wix. [Online]  
+Available at: https://www.wix.com/lp-en/hosting?utm_source=bing&utm_medium=cpc&utm_campaign=506226400^1271037187389242^search%20-%20bing%20rest&experiment_id=free%20domain%20hosting^b^^&msclkid=21b39fb6c8b2111a9c3ef5cde476bb8d 
+[Accessed 11 August 2026]. 
