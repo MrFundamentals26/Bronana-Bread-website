@@ -68,6 +68,12 @@ Homepage -> Products, About, Enquiry, Contact, Special Orders
 
 -All HTML files have been updated with comments to explain the code
 
+-All pages now have a footer
+
+-Image of employee has been added on about page
+
+-Button to submit has been added to special orders page
+
 # References
 ​​CFI, 2020. Mission Statement. [Online]  
 Available at: https://corporatefinanceinstitute.com/resources/management/mission-statement/ 
