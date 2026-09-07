@@ -4,6 +4,8 @@ This repository is made to store files and code for a fictional business named B
 # Student information
 ST10480197
 
+DMT2 Group 1
+
 Nhlamulo Gana
 
 # Project Overview
@@ -73,6 +75,12 @@ Homepage -> Products, About, Enquiry, Contact, Special Orders
 -Image of employee has been added on about page
 
 -Button to submit has been added to special orders page
+
+-Added js, assets and CSS folders
+
+-Created style.css to be used as a stylesheet
+
+-Updated website navigation on every page to allow for seamless navigation
 
 # References
 ​​CFI, 2020. Mission Statement. [Online]  
