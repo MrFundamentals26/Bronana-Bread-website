@@ -82,6 +82,14 @@ Homepage -> Products, About, Enquiry, Contact, Special Orders
 
 -Updated website navigation on every page to allow for seamless navigation
 
+-Added footer tags
+
+-Removed special orders page
+
+-Added background color on all pages
+
+-Made H1 tags glow
+
 # References
 ​​CFI, 2020. Mission Statement. [Online]  
 Available at: https://corporatefinanceinstitute.com/resources/management/mission-statement/ 
