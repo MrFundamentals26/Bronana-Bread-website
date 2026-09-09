@@ -46,6 +46,9 @@ Unknown date November 2026 – Website is launched.
 # Part 1 Details
 2 proposals were created for different businesses to propose websites for them. A website will be created for one of the businesses. Part 1 focuses on the foundation of the website's structure. HTML structure is created and information about the website is put into the website. Then the whole project is uploaded into GitHub.
 
+# Part 2 details
+Part 2 focuses on CSS and styling the web pages and adding more content.
+
 # Sitemap
 Homepage -> Products, About, Enquiry, Contact, Special Orders
 
