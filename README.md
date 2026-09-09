@@ -106,3 +106,9 @@ Available at: https://www.warmly.ai/p/blog/lead-generation-metrics#6-customer-ac
 ​Wix, 2026. Why you're in good hands with Wix. [Online]  
 Available at: https://www.wix.com/lp-en/hosting?utm_source=bing&utm_medium=cpc&utm_campaign=506226400^1271037187389242^search%20-%20bing%20rest&experiment_id=free%20domain%20hosting^b^^&msclkid=21b39fb6c8b2111a9c3ef5cde476bb8d 
 [Accessed 11 August 2026]. 
+
+Creative Dev Pro, 2026. Makeglowing text with CSS. [Online] 
+Available at: https://www.youtube.com/shorts/zMAiKCrpkyM
+[Accessed 9 September 2026].
+
+
