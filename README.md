@@ -124,4 +124,7 @@ Bootswatch, 2026. Quartz. [Online]
 Available at: https://bootswatch.com/quartz/#top
 [Accessed 10 September 2026].
 
+coder biniya, 2026. FromBasic to PRO CSS Backgrounds Tutorial. [Online] 
+Available at: https://www.bing.com/ck/a?!&&p=60065fcf6fe4e8c159323c5a409cef34cb01bf84b3104d97672c5553a234d891JmltdHM9MTc4ODk5ODQwMA&ptn=3&ver=2&hsh=4&fclid=35215772-d468-645e-17f5-4183d5be65ac&u=a1L3ZpZGVvcy9yaXZlcnZpZXcvcmVsYXRlZHZpZGVvP3E9aG93K3RvK21ha2UrZ3JhZGllbnQr
+[Accessed 10 September 2026].
 
