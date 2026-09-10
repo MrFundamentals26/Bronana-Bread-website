@@ -17,19 +17,17 @@ The goals for the business are to sell more products by getting new customers an
 
 # Website features and functionality 
 
-The website will have 6 pages: 
+The website will have 5 pages: 
 
 Homepage – This will be the main page of the website which all visitors will see first. It will have the hero section which will showcase the main purpose of the business and a call to action. It will also serve as the center of navigating the website. 
 
 About us page – This page will have information about the history and process of the business such as how the business started and how they bake their products and even information about the founder so that visitors can be invested in the business. 
 
-Products page – This page will showcase all the available products the business sells so that the customers can make their choice as to which they want to buy. 
+Services page – This page will showcase all the available services the business sells so that the customers can make their choice as to which they want to buy. 
 
 Enquiry – This is a page where customers will ask for information either about the business itself or the products it offers such as how many calories does a coffee pancake contain or if the ingredients used are vegan. 
 
 Contact page – This page will house all available contact information where it's for ordering products or customer service. 
-
-Special Order page – This page is where customers will be able to request personalized orders, they can swap out certain ingredients, add or subtract something or request for something entirely new within reason.
 
 # Timeline and Milestones 
 
