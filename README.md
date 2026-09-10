@@ -122,4 +122,8 @@ Creative Dev Pro, 2026. Makeglowing text with CSS. [Online]
 Available at: https://www.youtube.com/shorts/zMAiKCrpkyM
 [Accessed 9 September 2026].
 
+Bootswatch, 2026. Quartz. [Online] 
+Available at: https://bootswatch.com/quartz/#top
+[Accessed 10 September 2026].
+
 
