@@ -1,0 +1,46 @@
+h1 {
+    font-size: 60px;
+    
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;            
+    margin-top: 5px;
+    margin-bottom: 5px;
+    
+}
+
+
+
+nav{
+    margin-left: auto;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: solid;
+    /*use this to align navigation up to down on the banner*/
+    margin-top: 20px;
+    padding: 5px;
+    
+    border-radius: 5px;
+    background-color: aliceblue;
+}
+
+footer{
+    text-align: center;
+}
+
+body{
+    background-color: antiquewhite;
+}
+/*decoration for all banners*/
+.banner{
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(255, 184, 69);
+    padding: 10px;
+    border: solid 3px black;
+    align-items: center;
+}
+
+.banner img {
+        height: 100px;
+        width: auto;
+        max-width: 100%;
+}
