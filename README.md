@@ -91,6 +91,10 @@ Homepage -> Products, About, Enquiry, Contact, Special Orders
 
 -Made H1 tags glow
 
+-Added logo
+
+-Moved navigation on home page to the right side
+
 # References
 ​​CFI, 2020. Mission Statement. [Online]  
 Available at: https://corporatefinanceinstitute.com/resources/management/mission-statement/ 
